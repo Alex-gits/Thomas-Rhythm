@@ -11,6 +11,13 @@ My first study project for the Frontend Course.
 
 4. Open the project directory in any IDE to edit the code.
 
+## Main features:
+
+1. Simple and stylish look
+
+2. CSS flip animation effect
+
+3. Adaptive web design 
 
 ## Built With
 
@@ -21,6 +28,18 @@ My first study project for the Frontend Course.
 3. [Font Awesome](https://fontawesome.com/) 
 
 4. [Et line](http://rhythm.nikadevs.com/content/icons-et-line)
+
+## List of media queries:
+
+1. @media (max-width: 1306px)
+
+2. @media (max-width: 1200px)
+
+3. @media (max-width: 991px)
+
+4. @media (max-width: 767px)
+
+5. @media (max-width: 576px)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
