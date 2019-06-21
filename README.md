@@ -1,5 +1,5 @@
 # Thomas-Rhythm ![screenshot of sample](https://i.gyazo.com/6a0af0c21f7ff7cc693d1c613e9bf425.png)
-My first study project for the Frontend Course. 
+Study project for the Frontend Course. 
 
 ## Getting Started
 
