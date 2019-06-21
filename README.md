@@ -5,7 +5,7 @@ My first study project for the Frontend Course.
 
 1. Download the [project](https://github.com/Alex-gits/Thomas-Rhythm/archive/master.zip) directly from GitHub.
 
-2. Or just use Git Bash (git clone https://github.com/Alex-gits/Thomas-Rhythm.git).
+2. Or just use Git Bash ```git clone https://github.com/Alex-gits/Thomas-Rhythm.git```.
 
 3. Open index.html in your browser of choice to see the final result.
 
