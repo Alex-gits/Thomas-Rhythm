@@ -610,7 +610,8 @@ body {
 .slider__arrow--prev {
     position: absolute;
     border-left: 50px solid #fff;
-    top: 0;
+    top: 50%;
+    transform: translateY(-100%);
     left: -50px;
     z-index: 11;
     transition: left .5s linear;
@@ -620,7 +621,8 @@ body {
     position: absolute;
     border-right: 50px solid #fff;
     right: -50px;
-    top: 0;
+    top: 50%;
+    transform: translateY(-100%);
     transition: right .5s linear;
 }
 
@@ -959,11 +961,11 @@ body {
 @media (max-width: 991px) {
     .header__navigation {
         display: flex;
-        position: fixed;
+        position: absolute;
         left: -100%;
         top: 0;
-        width: calc(100% - 100px);
-        height: 100%;
+        width: calc(50% - 50px);
+        height: 400px;
         background-color: rgba(0,0,0,.8);
         justify-content: center;
         align-items: center;
